@@ -1,0 +1,3 @@
+[submodule "L-git-submodules-sub1"]
+	path = L-git-submodules-sub1
+	url = git@github.com:taylorzhangyx/L-git-submodules-sub1.git
